@@ -1,0 +1,7 @@
+  La villa del seis
+ -------------------> por Yasmina Llaveria del Castillo y Joan Alba Maldonado (100% PHP y JavaScript).
+                      yas@granvino.com y granvino@granvino.com
+
+  Prohibido publicar, reproducir o modificar sin citar expresamente al autor original.
+
+  Fecha aproximada: 16 de Septiembre de 2006.

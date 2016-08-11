@@ -16,3 +16,5 @@ Also, you can play it like a text adventure (interactive fiction) on a text brow
 The game uses Yasmina's Quest motor but altered and improved.
 You can use the motor/engine/parser to create your own adventure if you know PHP and JavaScript.
 This cross-platform and cross-browser game was tested under PC (Windows, BeOS, Linux, FreeBSD, OpenBSD, NetBSD, Syllable, SkyOS, etc), MAC (Mac OS 7.1, Mac OS X), Amiga, console (Nintendo DS, PSP, Dreamcast, XBOX), etc.
+
+Official web site: http://lavilladel6.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/lavilladel6/).
