@@ -1,9 +1,10 @@
-La villa del seis
-================== by Yasmina Llaveria del Castillo and Joan Alba Maldonado (granvino@granvino.com)
+La villa del seis 
+================== 
+by Yasmina Llaveria del Castillo and Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
 A terror adventure. Combination of graphical point-and-click adventure and text adventure totally written in PHP and DHTML.
 
-Version: 1.0
+Version: 1.0 
 Date: 16th September 2006 (approximately).
 
 You can donate at http://sourceforge.net/donate/index.php?group_id=177819
