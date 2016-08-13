@@ -5,7 +5,7 @@ by Yasmina Llaveria del Castillo and Joan Alba Maldonado (joanalbamaldonadoNO_SP
 A terror adventure. Combination of graphical point-and-click adventure and text adventure totally written in PHP and DHTML.
 
 Version: 1.0 
-Date: 16th September 2006 (approximately).
+- Date: 16th September 2006 (approximately).
 
 You can donate at http://sourceforge.net/donate/index.php?group_id=177819
 
