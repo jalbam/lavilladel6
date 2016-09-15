@@ -10,7 +10,7 @@ Version: 1.0
 You can donate at http://sourceforge.net/donate/index.php?group_id=177819
 
 
-![ScreenShot](screenshot.jpg)
+![ScreenShot](screenshot.gif)
 
 
 Description
