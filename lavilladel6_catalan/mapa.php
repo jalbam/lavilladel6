@@ -2,7 +2,11 @@
     //Se otorga a la sesion el nombre "lavilladelseis":
     session_name("lavilladelseis");
     //Se abre la sesion:
-    session_start("lavilladelseis");
+    session_start(); //session_start("lavilladelseis"); //For PHP5 compatibility (Added on 26 SEP 2018).
+
+	//For PHP5 compatibility (Added on 26 SEP 2018):
+	if (!isset($HTTP_GET_VARS) || isset($_GET)) { $HTTP_GET_VARS = &$_GET; }
+	if (!isset($HTTP_SESSION_VARS) || isset($_SESSION)) { $HTTP_SESSION_VARS = &$_SESSION; }
 
     //Variable para indicar cual es este archivo:
     $this_file = "mapa.php";
