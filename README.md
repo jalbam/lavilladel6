@@ -13,7 +13,7 @@ You can donate at http://sourceforge.net/donate/index.php?group_id=177819
 ![ScreenShot](screenshot.gif)
 
 
-Description
+## Description
 
 Open source adventure game written in PHP, HTML, CSS and JavaScript.
 
@@ -27,5 +27,12 @@ Since this has the Yasmina's Quest engine but improved, some people has chosen t
 
 This game has been tested under BeOS, Linux, NetBSD, OpenBSD, FreeBSD, Windows, Mac OS X, QNX, BlackBerry Tablet OS, Android, iOS and others. In its homepage you can see some screenshots with the game running on many different platforms such as Nintendo DS, Sony PSP, Sega Dreamcast and Pocket PC.
 
+Play online in Spanish: http://lavilladel6.tuxfamily.org/lavilladel6_spanish/
+
+Play online in Spanish (mirror): http://www.dhtmlgames.com/lavilladel6/lavilladel6_spanish/
+
+Play online in Catalan: http://lavilladel6.tuxfamily.org/lavilladel6_catalan/
+
+Play online in Catalan (mirror): http://www.dhtmlgames.com/lavilladel6/lavilladel6_catalan/
 
 Official web site: http://lavilladel6.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/lavilladel6/).
