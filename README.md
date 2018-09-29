@@ -38,3 +38,8 @@ Play online in Catalan: http://lavilladel6.tuxfamily.org/lavilladel6_catalan/
 Play online in Catalan (mirror): http://www.dhtmlgames.com/lavilladel6/lavilladel6_catalan/
 
 Official web site: http://lavilladel6.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/lavilladel6/).
+
+
+## License
+
+This project can be used, reproduced, distributed and modified freely for any non-commercial purposes but always keeping the author's name and copyright clauses. Other than that, just use this project as you wish but never sell it!
