@@ -1,5 +1,5 @@
-La villa del seis 
-================== 
+La villa del seis (aka La villa del 6)
+====================================== 
 by Yasmina Llaveria del Castillo and Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
 A terror adventure. Combination of graphical point-and-click adventure and text adventure totally written in PHP and DHTML.
@@ -21,7 +21,7 @@ This game was made in late 2006 and uses the engine of [Yasmina's Quest](https:/
 
 Official languages are Spanish and Catalan.
 
-It has become quite famous on the Internet, with thousands and thousands of downloads and online players. It was even mentioned in at least one well-known Spanish magazine called "Año/Cero" in an article titled "La ruta de los pueblos condenados" written by José Manuel Serrano Cueto and published in January 2007.
+It has become quite famous on the Internet, with thousands and thousands of downloads and online players. It was even mentioned in at least one well-known Spanish magazine called "[Año/Cero](http://www.revistaañocero.com/)" in an article titled "[La ruta de los pueblos condenados](http://www.revistaañocero.com/secciones/geografia-magica/ruta-pueblos-condenados)" written by José Manuel Serrano Cueto and published in January 2007 (on paper as well as on-line).
 
 Since this has the [Yasmina's Quest](https://github.com/jalbam/yquest) engine but improved, some people has chosen the code of this game to create their adventure instead of using the [Yasmina's Quest](https://github.com/jalbam/yquest) code. As well as [Yasmina's Quest](https://github.com/jalbam/yquest), the game can be played either as a point-and-click adventure or as a text adventure and it can run in any kind of web browser. JavaScript and CSS are useful but not really necessary. Images are not necessary either, allowing the game to be played in a text-based web browser as Lynx or Links.
 
