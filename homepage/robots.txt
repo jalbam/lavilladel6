@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /lavilladel6_spanish
+Disallow: /lavilladel6_catalan
