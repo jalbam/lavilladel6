@@ -21,7 +21,7 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-la_vila_del_sis_on_server2go/*.* linguist-detectable=false
-la_villa_del_seis_on_server2go/*.* linguist-detectable=false
-la_villa_del_seis_php-webkit_win32/*.* linguist-detectable=false
-homepage/*.* linguist-detectable=false
+la_vila_del_sis_on_server2go/* linguist-detectable=false
+la_villa_del_seis_on_server2go/* linguist-detectable=false
+la_villa_del_seis_php-webkit_win32/* linguist-detectable=false
+homepage/* linguist-detectable=false
